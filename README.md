@@ -1,1 +1,1 @@
-# xcom-4j
+# xcom-maven-repository
